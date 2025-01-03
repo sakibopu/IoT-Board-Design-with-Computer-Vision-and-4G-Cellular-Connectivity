@@ -81,4 +81,4 @@ This IoT board is designed for versatile applications, including but not limited
 - Integration of additional sensors for environmental monitoring.
 - Support for LoRa or NB-IoT for extended connectivity.
 - Implementation of machine learning models for advanced computer vision tasks.
-- Development of a custom PCB for compact design.
+
